@@ -1,0 +1,10 @@
+.mybutton {
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+}
+
+.mytitle{
+	-fx-font-family: "Shadows Into Light";
+	-fx-font-size: 36.0px;
+}
